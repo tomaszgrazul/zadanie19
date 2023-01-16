@@ -1,0 +1,20 @@
+body{
+    background-color: #f5f5dd;
+}
+.kwadrat{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    }
+#a{
+    background-color: rgba(0, 0, 0, 1);
+}
+#b{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+#c{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+#d{
+    background-color: rgba(0, 0, 0, 0.1);
+}
